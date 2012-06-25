@@ -1,0 +1,3 @@
+Serial port IO for Haskell based on handles.
+
+Support is limited to Unix-systems (Linux, Mac OS X) at the moment, but nothing Unix-specific is exposed in the interface so a Windows implementation could be added.
